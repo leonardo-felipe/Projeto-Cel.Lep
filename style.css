@@ -8,3 +8,7 @@ footer {
     color: #292b2c;    
     background-color: #eceeef;
 }
+footer img{
+  border-radius: 50%;
+  width: 20%;
+}
